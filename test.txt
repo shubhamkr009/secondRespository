@@ -1,2 +1,3 @@
 Hello, Welcome to git tutorial
 It seems a great productivity inhancement
+IN next video we learn new commands 
